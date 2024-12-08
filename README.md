@@ -1,4 +1,4 @@
-🚗 #Road Accident Dashboard
+🚗 Road Accident Dashboard
 📖 Overview
 This project involves the creation of an interactive dashboard to analyze and visualize road accident data. The dashboard provides key insights into accident trends, severity levels, and contributing factors such as vehicle types, road conditions, and time periods. Its goal is to empower data-driven decision-making to improve road safety.
 
