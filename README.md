@@ -44,4 +44,6 @@ This project involves the creation of an interactive dashboard to analyze and vi
 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request with improvements.
 
-
+🏆 Acknowledgments
+Data source: https://docs.google.com/spreadsheets/d/1xjcxXxyygpK03Qp0j7GF8qTc2S8-aVC5/edit?usp=drive_link&ouid=102045164861533316076&rtpof=true&sd=true
+Icons and visuals: Created with Microsoft Excel.
